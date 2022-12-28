@@ -1,7 +1,7 @@
 ### Hi there 👋
 # README
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Liang130520)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Liang130520&theme=dark&show_icons=true)
 <!--
 **Liang130520/Liang130520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
