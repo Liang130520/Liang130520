@@ -2,8 +2,8 @@
 # README
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liang130520&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liang130520&layout=compact&theme=buefy)
 
-![Anurag's GitHub repocard](https://github-readme-stats.vercel.app/api?username=Liang130520&theme=buefy&show_icons=true)
 <!--
 **Liang130520/Liang130520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
